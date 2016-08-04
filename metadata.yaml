@@ -1,0 +1,43 @@
+_repo: Plain-Tales-from-the-Hills_1858
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Indhold: Lispeth ; Three and -- an extra ; Thrown away ; Miss Youghal''s
+  sais ; "Yoked with an unbeliever" ; False dawn ; The rescue of Pluffles ; Cupid''s
+  arrows ; The three musketeers ; His chance in life ; Watches of the night ; The
+  other man ; Consequences ; The conversation af Aurelian McGoggin ; The taking of
+  Lungtungpen ; A germ-destroyer ; Kidnapped ; The arrest of lieutenant Golightly'
+gutenberg_issued: '1999-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Lispeth -- Three and--an extra -- Thrown away -- Miss Youghal's sais
+  -- Yoked with an unbeliever -- False dawn -- The rescue of Pluffles -- Cupid's arrows
+  -- His chance in life -- Watches of the night -- The other man -- Consequences --
+  The conversionof Aurelian McGoggin -- A germ destroyer -- Kidnapped -- The arrest
+  of Liutenanat Golightly -- The house of Suddhoo -- His wedded wife -- The broken
+  link handicapped -- Beyond the pale -- In error -- A bank fraud -- Tod's amendment
+  -- In the pride of his youth -- Pig -- The rout of the White Hussars -- The Bronckhorst
+  divorce-case -- Venus Annodomini -- The Bisara of poorer -- The gate of a hundred
+  sorrows -- The story of Muhammid Din -- On the strength of a likeness -- Wressley
+  of the Foreign Office -- By word of mouth -- To be held for reference.
+title: Plain Tales from the Hills
+url: http://www.gutenberg.org/ebooks/1858
